@@ -8,7 +8,9 @@ Passionate about integrating AI/ML into modern web development, with a focus on 
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
 * ✉️  You can contact me at [merrilljaysonnn@gmail.com](mailto:merrilljaysonnn@gmail.com)
-* 💬  Im looking for projects that are impactful, creative and change driven.
+* 🧠  I'm currently learning RAG (Retrieval-Augmented Generation)
+* 👥  I'm looking to collaborate on AI-powered Product Design
+* 💬  Ask me about turning AI ideas into real products
 
 ## 🧠 Tech Stack
 <table>
