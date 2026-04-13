@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Experience Designer
 ----------------------
 
-Passionate about integrating AI/ML into modern web development, with a focus on frontend engineering, UI/UX design, and tech-driven product experiences. I enjoy building responsive, intelligent products that make complex systems feel simple and solve real problems with good functionality.
+Im passionate about integrating AI/ML into modern web development, with a focus on frontend engineering, UI/UX design, and tech-driven product experiences. I enjoy building responsive, intelligent products that make complex systems feel simple and solve real problems with good functionality.
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
 * ✉️  You can contact me at [merrilljaysonnn@gmail.com](mailto:merrilljaysonnn@gmail.com)
